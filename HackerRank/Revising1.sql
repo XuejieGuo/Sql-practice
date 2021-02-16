@@ -1,0 +1,3 @@
+select *
+from CITY
+where countrycode='USA' and population >100000
